@@ -1,2 +1,2 @@
 # machinelearning
-Exercise for machine learning course
+Exercise for machine learning books and courses
